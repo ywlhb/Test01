@@ -1,0 +1,14 @@
+{
+  "name": "testbabylonjsts",
+  "version": "1.0.1",
+  "description": "Test Babylonjs&TS",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ywlhb/testbabylonjsts.git"
+  },
+  "dependencies": {
+    "babylonjs": "^3.2.0-alpha7",
+    "typescript": "^2.7.1"
+  }
+}
