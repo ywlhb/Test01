@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ywlhb/testbabylonjsts.git"
+    "url": "git+https://github.com/ywlhb/test.git"
   },
   "dependencies": {
     "babylonjs": "^3.2.0-alpha7",
